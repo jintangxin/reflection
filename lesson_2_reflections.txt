@@ -1,0 +1,7 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+
+A: This makes normal dictionary become a git dictionary or repository. This allows you do all git commands and track history changes.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A: Staging area is a place you temporarily store files to be committed to the repository. It helps you view what files to be committed. 
